@@ -1,9 +1,8 @@
 <h2 align="center"> ⚡  Me chamo Pedro Marcos, seja muito bem vindo ao meu GitHub!! ⚡ </h2>
 <div align="center"><br>
   
-<img src="https://media.giphy.com/media/z8OcWLLk4SrpS/giphy.gif" alt="haunterGastlyGengar" height="250" width="250" align="center">
-<img src="https://media.giphy.com/media/z8OcWLLk4SrpS/giphy.gif" alt="haunterGastlyGengar" height="250" width="250" align="center">
-  <img src="https://media.giphy.com/media/z8OcWLLk4SrpS/giphy.gif" alt="haunterGastlyGengar" height="250" width="250" align="center">
+<img src="https://media.giphy.com/media/z8OcWLLk4SrpS/giphy.gif" alt="haunterGastlyGengar" height="325" width="325" align="center">
+
   
 
   </div>
