@@ -53,16 +53,14 @@
   ## SPOTIFY PLAYING 🎧
 
 <div align="center"><br>
-  
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=j9a9tetmkafs7ymqw5mv00o5g) ![teste](https://media.giphy.com/media/YRDuN32tiOevbMTNMK/giphy.gif) 
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=j9a9tetmkafs7ymqw5mv00o5g" alt="haunterGastlyGengar" height="400" width="400" align="center">
+  <img src="https://media.giphy.com/media/YRDuN32tiOevbMTNMK/giphy.gif" alt="haunterGastlyGengar" height="400" width="400" align="center"> 
   
 <div align="center"><br>
   
   <br> 
   
-  ---
-  
-  <br> 
+ 
   
 
   
