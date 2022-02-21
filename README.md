@@ -1,4 +1,4 @@
-## ⚡  Me chamo Pedro Marcos, muito bem vindo ao meu GitHub!! ⚡
+<h2 align="center"> ⚡  Me chamo Pedro Marcos, seja muito bem vindo ao meu GitHub!! ⚡ </h2>
 
 <img src="https://media.giphy.com/media/z8OcWLLk4SrpS/giphy.gif" alt="haunterGastlyGengar" height="250" width="250" align="center">
 
@@ -14,12 +14,12 @@
 
 <br>
 
----
 
 <br>
 
 <h2 align="center"> Statistic GitHub </h2>
 
+<br>
 <br>
   
 <div align="center">
@@ -30,12 +30,12 @@
   
   <br>
   
-  ---
   
   <br>
   
   <h2 align="center"> Conhecimentos: </h2>
   
+  <br>
    <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="46" width="65" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="Git" height="46" width="65" align="center">
@@ -46,19 +46,17 @@
   
   <br>
   
-  ---
-  
+<br>
   <br>
   
-  ## SPOTIFY PLAYING 🎧
+  <h2 align="center"> SPOTIFY PLAYING 🎧 </h2>
 
 <div align="center"><br>
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=j9a9tetmkafs7ymqw5mv00o5g" alt="haunterGastlyGengar" height="400" width="400" align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=pedromarcos1223" alt="Spotify" height="400" width="400" align="center">
   <img src="https://media.giphy.com/media/YRDuN32tiOevbMTNMK/giphy.gif" alt="haunterGastlyGengar" height="400" width="400" align="center"> 
   
 <div align="center"><br>
   
-  <br> 
   
  
   
