@@ -12,7 +12,7 @@
 <br>
   
 - 🏀 Atualmente estou estudando Java.
-- 🌵 Atualmente estou estudando Inglês de forma autodidata
+- 🌵 Estou estudando Inglês de forma autodidata
 - 🍍 Sou uma pessoa muito curiosa e empenhada.
 - 🎧 Adoro ouvir musica
 - 👾 Gosto muito de video-game
