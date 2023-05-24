@@ -17,28 +17,6 @@
   
 </div>  
   
-----
-<div align="center">
-  <a href="https://github.com/Pedro-Marcos1223">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Pedro-Marcos1223&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Marcos1223&layout=compact&langs_count=7&theme=jolly"/>
-</div>
-
-----
- 
-  
-  ### Skill Set:
-  
-  <div align="center"><br>
-    
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="46" width="65" align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="Git" height="46" width="65" align="center">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Git" height="46" width="65" align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="Git" height="46" width="65" align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-plain-wordmark.svg" alt="Git" height="46" width="65" align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="Git" height="46" width="65" align="center">
-  
-  </div>
   
   ---
   
