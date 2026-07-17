@@ -30,5 +30,4 @@
   <img src="https://media.giphy.com/media/YRDuN32tiOevbMTNMK/giphy.gif" alt="haunterGastlyGengar" height="400" width="400" align="center"> 
   
 <div align="center"><br>
-  
-![Snake animation](https://github.com/Pedro-Marcos1223/Pedro-Marcos1223/blob/output/github-contribution-grid-snake.svg)
+
