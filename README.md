@@ -3,6 +3,8 @@
 
 ### Welcome, I'm Pedro
 </br>
+
+
 🧔 He/Ele </br>
 🎮 D&D, Nfs, League of Legends </br>
 🚩 Osasco-SP BR </br>
