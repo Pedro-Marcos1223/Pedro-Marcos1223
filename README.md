@@ -2,9 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/z8OcWLLk4SrpS/giphy.gif" width="250" height="250">
 
 ### Welcome, I'm Pedro
-  
-💼 I’m currently looking for a job! </br>
-👨‍🎓 I'm studying at Generation Brasil </br>
+
 🧔 He/Ele </br>
 🎮 D&D, Nfs, League of Legends </br>
 🚩 Osasco-SP BR </br>
