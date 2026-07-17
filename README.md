@@ -1,5 +1,4 @@
 <div>
-<img align='right' src="https://media.giphy.com/media/z8OcWLLk4SrpS/giphy.gif" width="250" height="250">
 
 ### Welcome, I'm Pedro
 </br>
